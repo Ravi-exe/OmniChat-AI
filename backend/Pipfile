@@ -12,6 +12,7 @@ openai = "*"
 langchain-openai = "*"
 
 [dev-packages]
+
 [requires]
 python_version = "3.12"
 
