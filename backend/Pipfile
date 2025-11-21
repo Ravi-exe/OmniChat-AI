@@ -14,3 +14,6 @@ langchain-openai = "*"
 [dev-packages]
 [requires]
 python_version = "3.12"
+
+[scripts]
+all= "uvicorn amin:app --reload && npm run dev "
