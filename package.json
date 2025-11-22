@@ -1,0 +1,6 @@
+{
+    "scripts": {
+        "pre": "npm i -g pnpm ",
+        "dev": "cd frontend && pnpm dev && cd backend && pipenv run dev"
+    }
+}
