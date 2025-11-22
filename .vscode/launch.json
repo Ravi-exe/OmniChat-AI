@@ -17,8 +17,6 @@
             ],
             "type": "node"
         },
-
-
         {
             "name": "Python Debugger: FastAPI",
             "type": "debugpy",
