@@ -1,3 +1,5 @@
+"use client";
+
 import LoginComponent from "@/components/auth/login.component";
 
 
