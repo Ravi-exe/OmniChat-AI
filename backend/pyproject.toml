@@ -16,3 +16,8 @@ dependencies = [
     "transformers>=4.57.1",
 ]
 
+[scripts]
+
+dev="uvicorn main:app --reload"
+
+
