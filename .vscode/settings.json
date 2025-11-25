@@ -1,4 +1,10 @@
 {
     "python-envs.pythonProjects": [],
-    "python.defaultInterpreterPath": "${workspaceFolder}/backend/.venv/Scripts/python.exe"
+    "python.defaultInterpreterPath": "${workspaceFolder}/backend/.venv/Scripts/python.exe",
+    "terminal.integrated.env.windows": {
+        "SSL_CERT_FILE": "C:\\Users\\ravi.finoux\\OneDrive\\Documents\\zscaler_root.pem"  
+    },
+    "terminal.integrated.env.linux": {
+        "SSL_CERT_FILE": "C:\\Users\\ravi.finoux\\OneDrive\\Documents\\zscaler_root.pem"  
+    }
 }
